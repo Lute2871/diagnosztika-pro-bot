@@ -1,0 +1,1 @@
+# diagnosztika-pro-bot
